@@ -4,7 +4,6 @@
 
 A simple implementation of the Rock, Paper, Scissors game in Python. This is my first practice project uploaded to GitHub.
 
-## Project Structure
 
 ## Project Structure
 ```
