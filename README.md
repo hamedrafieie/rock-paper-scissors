@@ -6,13 +6,15 @@ A simple implementation of the Rock, Paper, Scissors game in Python. This is my 
 
 ## Project Structure
 
+## Project Structure
+```
 rock-paper-scissors/
 │
 ├── src/
-│   ├── game.py - The main game class
+│   ├── game.py - the main game class
 │
-├── README.md - This file
-
+└── README.md
+```
 ## Prerequisites
 
 - Python 3.x
